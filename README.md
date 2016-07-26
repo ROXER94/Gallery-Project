@@ -1,2 +1,5 @@
-# GalleryProject
-For class
+# Gallery Project
+
+Username: admin
+
+Password: password
